@@ -44,6 +44,7 @@ const Formulario = ({ busqueda, setBusqueda, setConsultar }) => {
           <option value="">--Seleccione un pais--</option>
 
           <option value="CL">Chile</option>
+          <option value="VE">Venezuela</option>
           <option value="US">Estados Unidos</option>
           <option value="MX">México</option>
           <option value="AR">Argentina</option>
